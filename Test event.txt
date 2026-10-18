@@ -1,0 +1,15 @@
+{
+  "Records": [
+    {
+      "eventName": "ObjectCreated:Put",
+      "s3": {
+        "bucket": {
+          "name": "student-csv-ingestion-jp"
+        },
+        "object": {
+          "key": "student.csv"
+        }
+      }
+    }
+  ]
+}

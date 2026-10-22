@@ -1,4 +1,4 @@
-# ☁️ AWS Student CSV Processing Automation
+# ☁️ Automating a Real-Time, Event-Driven Data Ingestion Pipeline for Business Transactions
 
 ### 🚀 Python Automation | Amazon S3 | AWS Lambda | RDS MySQL | SNS
 
